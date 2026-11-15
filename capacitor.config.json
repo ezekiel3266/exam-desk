@@ -1,0 +1,8 @@
+{
+  "appId": "com.examdesk.app",
+  "appName": "Exam Desk",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
